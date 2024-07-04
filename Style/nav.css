@@ -11,3 +11,8 @@ nav li {
 nav a {
   text-decoration: none;
 }
+
+nav li:hover {
+  background-color: lightskyblue;
+  border-radius: 5px;
+}
